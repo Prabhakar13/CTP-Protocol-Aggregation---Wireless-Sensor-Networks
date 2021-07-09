@@ -1,0 +1,133 @@
+00:00.341	ID:8	Rime started with address 8.0
+00:00.348	ID:8	MAC 08:00:00:00:00:00:00:00 Contiki 2.7 started. Node id is set to 8.
+00:00.357	ID:8	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:00.360	ID:8	Starting 'Test collect process'
+00:00.375	ID:8	I got the message as :-  Co-ord at : 35.94203796105412 91.08304433153006
+00:00.504	ID:2	Rime started with address 2.0
+00:00.512	ID:2	MAC 02:00:00:00:00:00:00:00 Contiki 2.7 started. Node id is set to 2.
+00:00.519	ID:6	Rime started with address 6.0
+00:00.521	ID:2	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:00.523	ID:2	Starting 'Test collect process'
+00:00.526	ID:6	MAC 06:00:00:00:00:00:00:00 Contiki 2.7 started. Node id is set to 6.
+00:00.535	ID:6	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:00.538	ID:6	Starting 'Test collect process'
+00:00.538	ID:2	I got the message as :-  Co-ord at : 21.36589852663645 21.88070688803442
+00:00.553	ID:6	I got the message as :-  Co-ord at : 48.30838999141913 99.68008221577261
+00:00.616	ID:4	Rime started with address 4.0
+00:00.624	ID:4	MAC 04:00:00:00:00:00:00:00 Contiki 2.7 started. Node id is set to 4.
+00:00.633	ID:4	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:00.635	ID:4	Starting 'Test collect process'
+00:00.650	ID:1	Rime started with address 1.0
+00:00.650	ID:4	I got the message as :-  Co-ord at : 45.09971041071491 14.359936003864139
+00:00.658	ID:1	MAC 01:00:00:00:00:00:00:00 Contiki 2.7 started. Node id is set to 1.
+00:00.667	ID:1	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:00.669	ID:1	Starting 'Test collect process'
+00:00.670	ID:7	Rime started with address 7.0
+00:00.672	ID:1	I am sink
+00:00.677	ID:7	MAC 07:00:00:00:00:00:00:00 Contiki 2.7 started. Node id is set to 7.
+00:00.684	ID:1	I got the message as :-  Co-ord at : 23.14571092581521 61.62985046969338
+00:00.686	ID:7	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:00.689	ID:7	Starting 'Test collect process'
+00:00.704	ID:7	I got the message as :-  Co-ord at : 49.1007148295232 80.09480047110813
+00:00.824	ID:10	Rime started with address 10.0
+00:00.832	ID:10	MAC 0a:00:00:00:00:00:00:00 Contiki 2.7 started. Node id is set to 10.
+00:00.841	ID:10	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:00.844	ID:10	Starting 'Test collect process'
+00:00.858	ID:10	I got the message as :-  Co-ord at : 20.772627726910198 32.55958128310698
+00:00.976	ID:9	Rime started with address 9.0
+00:00.983	ID:5	Rime started with address 5.0
+00:00.984	ID:9	MAC 09:00:00:00:00:00:00:00 Contiki 2.7 started. Node id is set to 9.
+00:00.991	ID:5	MAC 05:00:00:00:00:00:00:00 Contiki 2.7 started. Node id is set to 5.
+00:00.993	ID:9	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:00.996	ID:9	Starting 'Test collect process'
+00:01.000	ID:5	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.002	ID:5	Starting 'Test collect process'
+00:01.010	ID:9	I got the message as :-  Co-ord at : 81.33139828585415 6.374765531552806
+00:01.017	ID:5	I got the message as :-  Co-ord at : 19.882721527320818 41.7552786788639
+00:01.167	ID:3	Rime started with address 3.0
+00:01.175	ID:3	MAC 03:00:00:00:00:00:00:00 Contiki 2.7 started. Node id is set to 3.
+00:01.184	ID:3	CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26
+00:01.186	ID:3	Starting 'Test collect process'
+00:01.201	ID:3	I got the message as :-  Co-ord at : 20.772627726910198 52.13751767407333
+00:04.205	ID:2	I got the message as :-  0:Mess4
+00:04.207	ID:2	Counter updated to - 1
+00:04.213	ID:10	I got the message as :-  0:Mess4
+00:04.215	ID:10	Counter updated to - 1
+00:07.213	ID:10	I got the message as :-  1:Mess3
+00:07.215	ID:10	Counter updated to - 2
+00:07.221	ID:2	I got the message as :-  1:Mess3
+00:07.222	ID:2	Counter updated to - 2
+00:07.360	ID:8	New Timer Set
+00:07.525	ID:2	Message Sent on Timer, Counter = 0
+00:07.526	ID:2	New Timer Set
+00:07.526	ID:2	Sending
+00:07.538	ID:6	New Timer Set
+00:07.636	ID:4	New Timer Set
+00:07.669	ID:1	New Timer Set
+00:07.689	ID:7	New Timer Set
+00:07.845	ID:10	Message Sent on Timer, Counter = 0
+00:07.846	ID:10	New Timer Set
+00:07.847	ID:10	Sending
+00:07.996	ID:9	New Timer Set
+00:08.002	ID:5	New Timer Set
+00:08.187	ID:3	New Timer Set
+00:09.293	ID:1	Sink got message from 2.0, seqno 0, hops 1: len 16 '0:Mess4+1:Mess3'
+00:09.921	ID:1	Sink got message from 10.0, seqno 0, hops 1: len 16 '0:Mess4+1:Mess3'
+00:10.221	ID:2	I got the message as :-  2:Mess2
+00:10.222	ID:2	Counter updated to - 1
+00:10.229	ID:10	I got the message as :-  2:Mess2
+00:10.230	ID:10	Counter updated to - 1
+00:13.229	ID:10	I got the message as :-  3:Mess1
+00:13.230	ID:10	Counter updated to - 2
+00:13.236	ID:2	I got the message as :-  3:Mess1
+00:13.238	ID:2	Counter updated to - 2
+00:14.360	ID:8	New Timer Set
+00:14.525	ID:2	Message Sent on Timer, Counter = 0
+00:14.526	ID:2	New Timer Set
+00:14.526	ID:2	Sending
+00:14.529	ID:2	#L 1 1
+00:14.538	ID:6	New Timer Set
+00:14.636	ID:4	New Timer Set
+00:14.671	ID:1	Sink got message from 2.0, seqno 1, hops 1: len 16 '2:Mess2+3:Mess1'
+00:14.674	ID:1	New Timer Set
+00:14.689	ID:7	New Timer Set
+00:14.845	ID:10	Message Sent on Timer, Counter = 0
+00:14.846	ID:10	New Timer Set
+00:14.847	ID:10	Sending
+00:14.850	ID:10	#L 1 1
+00:14.996	ID:9	New Timer Set
+00:15.002	ID:5	New Timer Set
+00:15.171	ID:1	Sink got message from 10.0, seqno 1, hops 1: len 16 '2:Mess2+3:Mess1'
+00:15.187	ID:3	New Timer Set
+00:16.236	ID:2	I got the message as :-  4:Mess4
+00:16.238	ID:2	Counter updated to - 1
+00:16.244	ID:10	I got the message as :-  4:Mess4
+00:16.246	ID:10	Counter updated to - 1
+00:19.244	ID:10	I got the message as :-  5:Mess3
+00:19.246	ID:10	Counter updated to - 2
+00:19.252	ID:2	I got the message as :-  5:Mess3
+00:19.254	ID:2	Counter updated to - 2
+00:21.360	ID:8	New Timer Set
+00:21.525	ID:2	Message Sent on Timer, Counter = 0
+00:21.526	ID:2	New Timer Set
+00:21.526	ID:2	Sending
+00:21.538	ID:6	New Timer Set
+00:21.636	ID:4	New Timer Set
+00:21.671	ID:1	Sink got message from 2.0, seqno 2, hops 1: len 16 '4:Mess4+5:Mess3'
+00:21.674	ID:1	New Timer Set
+00:21.689	ID:7	New Timer Set
+00:21.845	ID:10	Message Sent on Timer, Counter = 0
+00:21.846	ID:10	New Timer Set
+00:21.847	ID:10	Sending
+00:21.921	ID:1	Sink got message from 10.0, seqno 2, hops 1: len 16 '4:Mess4+5:Mess3'
+00:21.996	ID:9	New Timer Set
+00:22.002	ID:5	New Timer Set
+00:22.187	ID:3	New Timer Set
+00:22.252	ID:2	I got the message as :-  6:Mess2
+00:22.254	ID:2	Counter updated to - 1
+00:22.260	ID:10	I got the message as :-  6:Mess2
+00:22.261	ID:10	Counter updated to - 1
+00:25.260	ID:10	I got the message as :-  7:Mess1
+00:25.261	ID:10	Counter updated to - 2
+00:25.268	ID:2	I got the message as :-  7:Mess1
+00:25.269	ID:2	Counter updated to - 2
