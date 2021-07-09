@@ -1,4 +1,4 @@
-# CTP-Protocol-Aggregation---Wirelss-Sensor-Networks
+# CTP-Protocol-Aggregation---Wireless-Sensor-Networks
 Implementation of Aggregation in CTP Protocol for increased efficiency in 
 Wireless Sensor Networks, being simulated in CONTIKI OS. 
 
